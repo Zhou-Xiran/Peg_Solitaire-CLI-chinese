@@ -1,0 +1,6 @@
+#ifndef CONFIG
+#define CONFIG
+
+#define DOCS_DIR "@CMAKE_INSTALL_PREFIX@/share/doc/@PROJECT_NAME@"
+
+#endif
